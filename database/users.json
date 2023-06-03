@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Joao",
+        "email": "joao@gmail.com",
+        "senha": "123",
+        "dinheiro": 5000
+    },
+    {
+        "name": "Maria",
+        "email": "maria@gmail.com",
+        "senha": "1234",
+        "dinheiro": 2000
+    },
+    {
+        "name": "Jose",
+        "email": "jose@gmail.com",
+        "senha": "12345",
+        "dinheiro": 3000
+    },
+    {
+        "name": "Ana",
+        "email": "ana@gmail.com",
+        "senha": "123456",
+        "dinheiro": 4000
+    },
+    {
+        "name": "Gustavo",
+        "email": "gustavo@gmail.com",
+        "senha": "1234",
+        "dinheiro": 50000000000
+    }
+]
